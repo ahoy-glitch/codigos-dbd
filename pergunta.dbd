@@ -1,0 +1,8 @@
+$argsCheck[>1;Por favor faça uma pergunta]
+$nomention
+$color[#151515]
+$description[$username
+**PERGUNTA**
+$message
+**RESPOSTA**
+$randomText[Sim;Não;Talvez]]
